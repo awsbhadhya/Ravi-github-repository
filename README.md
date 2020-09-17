@@ -8,4 +8,5 @@
 <li>Gloves</li>
 <li>rope</li>
 <li>Wheel Barrow</li>
+<li>light</li>
 </ul>
